@@ -7,7 +7,8 @@ CREACION DE POBLACION MENDELIANA
 - 21
 - Biotecnologia
 ## CARACTERÍSTICAS DEL EQUIPO
- Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
+ - Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
+ 
 ## PROGRAMAS UTILIZADOS 
 - Gitbash v2.36.0
 - Escritorio Github 3.0
