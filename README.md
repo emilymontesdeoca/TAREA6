@@ -9,6 +9,6 @@ CREACION DE POBLACION MENDELIANA
 ## CARACTERÍSTICAS DEL EQUIPO
  Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
 ## PROGRAMAS UTILIZADOS 
-Gitbash v2.36.0
-Escritorio Github 3.0
-nano 6.2
+- Gitbash v2.36.0
+- Escritorio Github 3.0
+- nano 6.2
